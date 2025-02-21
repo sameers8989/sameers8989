@@ -1,6 +1,7 @@
 - 👋 Hi, I’m sameer s
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning full stack devolopment
+- 🌱 I’m a Front End Developer
+
 - 
 
 <!---
